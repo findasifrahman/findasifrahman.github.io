@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1561086503287,
+  "index": "https://github.com/findasifrahman/findasifrahman.github.io.git/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/5.cece48f4c0508707c21a.js",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/es2015-polyfills.2fb2e38b1ca7c76ed0d5.js",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/favicon.ico",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/index.html",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/main.b3759e3dc8bbac93688a.js",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/polyfills.8bbb231b43165d65d357.js",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/runtime.f3ea1f7298119d3e67d0.js",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/styles.d44592a747c5b25cefaf.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-128x128.png",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-144x144.png",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-152x152.png",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-192x192.png",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-384x384.png",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-512x512.png",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-72x72.png",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-96x96.png",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/BAEC.jpg",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/ali.png",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/asif.jpg",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/bcsir.jpg",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/dental_pro.jpg",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/quote_sign_left.png",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/quote_sign_right.png",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/services-bg.jpg",
+        "https://github.com/findasifrahman/findasifrahman.github.io.git/dental_pro.9d30fae1f9da69d19bea.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/5.cece48f4c0508707c21a.js": "742d465b2bba313726234ec581283a9823255e33",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/BAEC.jpg": "e2b7df6a34bf047c04b2ec859f3855eeff5dc738",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/ali.png": "4cb35f6cf95dbc54259d186ef0c3087ecd6992df",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/asif.jpg": "54018d9b5f62f3b7d4fabf7994a4162c21799235",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/bcsir.jpg": "cd9c6f19274e7e843867effa31e273a71cca81ba",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/dental_pro.jpg": "9c2b7f3b4909350b1859dfa5b48b55d70ccc4191",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/quote_sign_left.png": "13e0a0e90a54aad06f6bba518a8d2a7d07c29dfb",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/quote_sign_right.png": "b288b21854259257f4a7c4ef5b9baa936597a123",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/assets/images/services-bg.jpg": "ed049b2f1128a77a6d73ece4abf487f38a91a7f9",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/dental_pro.9d30fae1f9da69d19bea.jpg": "9c2b7f3b4909350b1859dfa5b48b55d70ccc4191",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/es2015-polyfills.2fb2e38b1ca7c76ed0d5.js": "552a7807a70533732d464a4ab9b35b04318bf35a",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/index.html": "0f575a40acaf75d1c764838941141db6e35912ff",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/main.b3759e3dc8bbac93688a.js": "d0b090955dbf13ea58f1cb53510fe709e4883a0e",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/runtime.f3ea1f7298119d3e67d0.js": "648c80f88d20a33e960f7055d32766d1c9103c77",
+    "https://github.com/findasifrahman/findasifrahman.github.io.git/styles.d44592a747c5b25cefaf.css": "65cc06855d4296ef95e6cb80a9150b133245fa78"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
