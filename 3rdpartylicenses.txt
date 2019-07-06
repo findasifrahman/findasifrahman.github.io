@@ -257,6 +257,9 @@ THE SOFTWARE.
 ngx-gallery
 MIT
 
+ngx-pinch-zoom
+MIT
+
 rxjs
 Apache-2.0
                                Apache License
